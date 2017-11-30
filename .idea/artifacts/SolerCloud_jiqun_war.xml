@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SolerCloud_jiqun:war">
+    <output-path>$PROJECT_DIR$/../SolerCloud_jiqun/target</output-path>
+    <root id="archive" name="SolerCloud_jiqun.war">
+      <element id="artifact" artifact-name="SolerCloud_jiqun:war exploded" />
+    </root>
+  </artifact>
+</component>
